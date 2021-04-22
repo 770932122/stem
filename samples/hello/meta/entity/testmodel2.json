@@ -1,0 +1,24 @@
+{
+	"name": "testmodel2",
+	"entityFields": [{
+			"name": "id",
+			"type": "Long",
+			"ispk": true
+		},
+		{
+			"name": "age",
+			"type": "Long",
+			"ispk": false	
+		},
+		{
+			"name": "name",
+			"type": "String",
+			"ispk": false	
+		},
+		{
+			"name": "sex",
+			"type": "String",
+			"ispk": false	
+		}
+	]
+}
